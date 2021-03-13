@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TalkClient</string>
+
+    <string name="broadcast_id">MY_BROADCAST_ID</string>
+    <string name="broadcast_01">IN_USER</string>
+    <string name="broadcast_02">OUT_USER</string>
+    <string name="broadcast_03">MESSAGE</string>
+    <string name="broadcast_04">SECRET_MESSAGE</string>
+    <string name="broadcast_05">UPDATE_MEMBER</string>
+</resources>
+
